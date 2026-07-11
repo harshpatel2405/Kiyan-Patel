@@ -1,0 +1,27 @@
+if_else 
+a. if 
+    if(condition):
+        print("Condition is true")
+    elif(condition2):
+        print("Condition 2 is true")
+    else:
+        print("Condition is false")
+2. if_else 
+3. elif (elif ladder)
+4. nested if_else
+
+
+match-case
+
+1. What is python?
+2. name all the operators of Arithmetic operators 
+    + - * % ** // /
+
+3. what is used to take input from user -> input
+4. 5 < 5 -> false
+5. 6 > 8+9 ->  false
+6. 15 - 5 == 2 * 5 -> true 
+7.  0 == 0 -> true 
+8. 1 != (5 and 7) -> false
+
+9. Enter a number and check if it is less than 100  

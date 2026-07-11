@@ -1,0 +1,186 @@
+Python 
+------
+Programming Language 
+
+Website Development -- backend(data)
+Cyber Security      -- Hacking 
+AI / ML             --  
+Artificial INtelligence 
+Machine learning 
+
+CORE PYTHON 
+-----------
+print
+user input 
+operator 
+conditionals
+    if_else
+    match_case
+loop 
+    for 
+    while
+string 
+collections
+    list 
+    set 
+    dictionary 
+    tuple 
+functions 
+import and modules
+oops 
+exception handling 
+file handling
+
+
+PYTHON PRACTICE QUESTIONS (PRINT & INPUT ONLY)
+
+1. Print "Hello World" on the screen.
+
+2. Print your name, age, and city on separate lines.
+
+3. Take the user's name as input and print:
+   Hello, <name>
+
+4. Take the user's favorite color as input and print:
+   Your favorite color is <color>
+
+5. Take the user's age as input and print:
+   You are <age> years old.
+
+6. Ask the user for their school name and print:
+   Welcome to <school_name>
+
+7. Take First Name and Last Name as input and print the full name.
+
+8. Ask the user for their city and print:
+   You live in <city>
+
+9. Take the user's hobby as input and print:
+   Your hobby is <hobby>
+
+10. Ask the user for their favorite food and print:
+    I also like <food>
+
+11. Take Name, Age, and City as input and print:
+    My name is <name>.
+    I am <age> years old.
+    I live in <city>.
+
+12. Ask for School Name and Grade and print:
+    I study in <school>.
+    I am in Grade <grade>.
+
+13. Take three favorite subjects as input and print them on separate lines.
+
+14. Ask for Name and Favorite Game and print:
+    <name> likes playing <game>.
+
+15. Take a dream job as input and print:
+    I want to become a <job>.
+
+16. Take Name, City, and Country as input and print them in one sentence.
+
+17. Ask the user for their best friend's name and print:
+    My best friend is <friend_name>.
+
+18. Create a Student Information Card using inputs:
+    Name
+    Age
+    School
+
+    Output Format:
+    ====================
+    STUDENT CARD
+    ====================
+    Name   : ...
+    Age    : ...
+    School : ...
+    ====================
+
+19. Take the following inputs:
+    Name
+    Age
+    City
+    Hobby
+    Favorite Food
+
+    Print a short introduction using all the details.
+
+20. Create a Profile Generator that asks for:
+    Name
+    Nickname
+    City
+    Dream Job
+
+    Display:
+    ====================
+    PROFILE
+    ====================
+    Name      : ...
+    Nickname  : ...
+    City      : ...
+    Dream Job : ...
+    ====================
+
+21. Build a Mini Chatbot that asks:
+    Name
+    Age
+    Favorite Color
+
+    Output:
+    Hello <name>!
+    You are <age> years old.
+    Your favorite color is <color>.
+    Nice to meet you!
+
+RULE:
+Use only print() and input().
+Do NOT use if, else, loops, functions, or operators.
+
+
+
+operator
+--------
+Operator , operand 
+
+a           +       b
+operand operator operand 
+
+1. Arithmetic Operator 
+    +   -    *    /    %   // (floor division) (will return you value without point (less than number))
+    ** (exponent (base,power))
+
+2. relational operators 
+    <    >    <=   >=   ==  !=
+
+    5 < 5  -> false
+    5 > 5  -> false 
+    5 <= 5 -> true
+    5 >= 5 -> true 
+    5 == 5 -> true (checking (if both lhs and rhs are same)) (comparison operator)
+    5 != 5 -> false  (not equal to)
+
+3. Logical Operator 
+    and  -> both conditions are true 
+    or   -> any one of the condition should be true
+    not  -> alters the output 
+
+4. membership operator 
+    is y IN kiyan ('IN' is dalal)
+    is y NOT IN Kiyan 
+
+print(5 > 3)
+print(10 < 2)
+print(7 == 7)
+print(8 != 5)
+print(9 >= 9)
+print(4 <= 1)
+print(15 > 20)
+print(100 == 99)
+print(25 != 25)
+print(6 < 10)
+a = 5; b = 8; print(a > b)
+a = 12; b = 12; print(a == b)
+x = 20; y = 15; print(x >= y)
+x = 3; y = 7; print(x <= y)
+num = 50; print(num != 100)
