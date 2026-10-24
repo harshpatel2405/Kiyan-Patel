@@ -1,0 +1,10 @@
+String 
+------
+sequence of characters 
+
+name = 'harsh'
+name = "harsh"
+name = `harsh`
+
+String is mutable (can be updated)
+
